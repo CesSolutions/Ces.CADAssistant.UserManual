@@ -62,6 +62,7 @@
 
 <div align="center">
   <img src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/25150af8-f60d-4c11-9da4-f0760b74fbf1"/>
+  <p>Settings</p>
 </div>
 
 <p>
@@ -101,4 +102,5 @@
 
 <div align="center">
   <img src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/84f3d817-eda3-4243-aeb7-8dfa32dbdf26"/>
+  <p>Showing Delete & Edit button For Each Item in Code Generator</p>
 </div>
