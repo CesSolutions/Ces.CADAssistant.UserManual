@@ -111,6 +111,6 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/40fac97b-5c9b-4350-8d68-de1859e38898"/>
+  <img src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/d0f04c9d-0ee3-4ffa-a6c1-d41e7bec324a"/>
   <p>Groups</p>
 </div>
