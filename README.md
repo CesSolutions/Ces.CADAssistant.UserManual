@@ -131,5 +131,6 @@
 </p>
 
 <div align="center">
-  <img alt="Group Item Details" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/79619b97-4b2f-4811-90b7-217159956d65"/>
+  <img alt="Group Item Details" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/41222679-c7a6-461f-9fb5-a7a69cbb3e04"/>
+  <p>Group Item Details</p>
 </div>
