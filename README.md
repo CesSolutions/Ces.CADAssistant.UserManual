@@ -134,3 +134,8 @@
   <img alt="Group Item Details" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/41222679-c7a6-461f-9fb5-a7a69cbb3e04"/>
   <p>Group Item Details</p>
 </div>
+
+<h1 dir="rtl">Important / مهم</h1>
+<p dir="rtl">
+  تا اینجا اطلاعات پایه به منظور تولید کد برای قطعات در بانک اطلاعاتی ثبت شده است. نکته مهم در ثبت اطلاعات آنست که برای تمام عنوان هایی که ثبت کردیم باید یک کد منحصر بفرد در نظر بگیریم. در ادامه با چگونگی بکارگیری این داده ها آشنا خواهید شد.
+</p>
