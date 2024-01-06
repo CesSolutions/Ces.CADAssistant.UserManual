@@ -4,6 +4,7 @@
 
 <div align="center">
   <img alt="Main Form" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/eed965dc-109b-4cb0-99f1-c4d33bef58f4"/>  
+  <p>Main Form</p>
 </div>
 
 <p dir="rtl">
@@ -12,6 +13,7 @@
 
 <div align="center">
   <img width="600" alt="DocumentNumberingSample" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/f8f1138f-aab3-459e-8b4a-e543dcd97a6f">
+  <p>Sample Numbering</p>
 </div>
 
 <p dir="rtl">
