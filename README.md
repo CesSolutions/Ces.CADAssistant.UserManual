@@ -61,7 +61,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/25150af8-f60d-4c11-9da4-f0760b74fbf1"/>
+  <img alt="Settings" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/25150af8-f60d-4c11-9da4-f0760b74fbf1"/>
   <p>Settings</p>
 </div>
 
@@ -101,7 +101,7 @@
 </ul>
 
 <div align="center">
-  <img src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/84f3d817-eda3-4243-aeb7-8dfa32dbdf26"/>
+  <img alt="Delete and Edit Button" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/84f3d817-eda3-4243-aeb7-8dfa32dbdf26"/>
   <p>Showing Delete & Edit button For Each Item in Code Generator</p>
 </div>
 
@@ -111,6 +111,16 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/d0f04c9d-0ee3-4ffa-a6c1-d41e7bec324a"/>
+  <img alt="Groups" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/d0f04c9d-0ee3-4ffa-a6c1-d41e7bec324a"/>
   <p>Groups</p>
+</div>
+
+<h1 dir="rtl">GroupItems / آیتم های گروه</h1>
+<p dir="rtl">
+  در این بخش باید برای هر یک از Groupها جزئیات آن را مشخص کنیم. در تصویر زیر مشاهده می کنید که گروه Drawing Types دارای چندین آیتم می باشد. در واقع در زمان تولید کد باید مشخص شود که نوع سند کدام است.
+</p>
+
+<div align="center">
+  <img src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/80727d4e-a4ad-4242-9471-b773951b57e8"/>
+  <p>Group Items</p>
 </div>
