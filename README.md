@@ -104,3 +104,13 @@
   <img src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/84f3d817-eda3-4243-aeb7-8dfa32dbdf26"/>
   <p>Showing Delete & Edit button For Each Item in Code Generator</p>
 </div>
+
+<h1 dir="rtl">Groups / گروه ها</h1>
+<p dir="rtl">
+  همانظور که در تصویر زیر مشاهده میکنید در ابتدا گروه ها مشخصش ده اند و این گروه ها مولفه های تشکیل دهنده کد قطعه خواهند بود.
+</p>
+
+<div align="center">
+  <img src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/40fac97b-5c9b-4350-8d68-de1859e38898"/>
+  <p>Groups</p>
+</div>
