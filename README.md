@@ -163,5 +163,6 @@
 </p>
 
 <div align="center">
-  <img alt="Coding System Details" src="" />
+  <img alt="Coding System Details" src="(https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/964c965a-d586-4ad0-b107-2e557d064819" />
+  <p>Coding System Details</p>
 </div>
