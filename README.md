@@ -400,3 +400,15 @@
 </p>
 
 <h1 dir="rtl">Minimal Mode / حالت کمینه</h1>
+<p>
+  Having the "CatiaAssistant" program open may take up screen space and prevent the designer from working. Therefore, choosing "Minimal Mode" will help to make more space available to the designer and the program will be displayed with a small icon on the right-bottom side of the screen. If you click on the icon, the "Code Generator" window will be launched, and if you right-click, the main page of the program will be launched.
+</p>
+
+<p dir="rtl">
+  باز بودن برنامه CatiaAssistant ممکن است فضای صفحه نمایش را اشغال کند و مانع کار کردن طراح شود. بنابراین انتخاب Minimal Mode کمک خواهد کرد تا فضای بیشتری در دسترس طراح باشد و برنامه با یک آیکن کوچک در سمت راست-پایین صفحه نمایش نمایش داده خواهد شد. اگر روی آیکن کلیک کنید پنجره Code Generator اجرا خواهد شد و اگر راست کلیک کنید صفحه اصلی برنامه اجرا خواهد شد.
+</p>
+
+<div align="center">
+  <img alt="Minimal Mode" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/13a4baa0-d219-464d-b582-b17bf211678b">
+  <p>Minimal Mode</p>
+</div>
