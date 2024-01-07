@@ -98,12 +98,24 @@
 
 <h1 dir="rtl">Settings / تنظیمات</h1>
 <ul>
-  <li><b>Generate Code into Capital Letter : </b></li>
-  <li><b>Remember Previous Selection : </b></li>
-  <li><b>Show Delete Button Next To Items : </b></li>
-  <li><b>Show Edit Button Next To Items : </b></li>
-  <li><b>Select Existing : </b></li>
-  <li><b>Create New : </b></li>
+  <li><b>Generate Code into Capital Letter : </b>
+    If you enable this option, the generated code will be displayed in capital letters, otherwise it will be displayed in the same form as the information you registered in the database.
+  </li>
+  <li><b>Remember Previous Selection : </b>
+  Enabling this option helps the program to save the last generated code and to use generate the next new code, in this case you must select only the item that needs to be changed to generate the new code. It is recommended that this option be active. For example, if your code consists of twenty parts and each time the code is generated, it is only necessary to change the "DrawingType", it is no longer necessary to select all twenty parts again to generate the new code, and it is enough to change the same part.
+  </li>
+  <li><b>Show Delete Button Next To Items : </b>
+  During code generation, the "Delete" option is displayed next to all items so that you can delete that row from the database. It is recommended that this option be disabled unless you are setting up an coding system.
+  </li>
+  <li><b>Show Edit Button Next To Items : </b>
+    During code generation, the "Edit" option is displayed next to all items so that you can edit that row from the database. It is recommended that this option be disabled unless you are setting up an coding system.
+  </li>
+  <li><b>Select Existing : </b>
+  If the database is not recognized in the first run of the application, you can select the previous database to the program.
+  </li>
+  <li><b>Create New : </b>
+  If the database is not recognized in the first run of the application, you can create a new database.
+  </li>
 </ul>
 
 <ul dir="rtl">
@@ -133,6 +145,9 @@
 </div>
 
 <h1 dir="rtl">Groups / گروه ها</h1>
+<p>
+  As you can see in the picture below, the groups are defined at the beginning and these groups will be the elements of the  code. We should consider a abbrevation code for each item.
+</p>
 <p dir="rtl">
   همانظور که در تصویر زیر مشاهده می کنید در ابتدا گروه ها مشخص شده اند و این گروه ها مولفه های تشکیل دهنده کد قطعه خواهند بود. برای هر آیتم باید یک کد اختصاری در نظر بگیریم.
 </p>
@@ -143,6 +158,9 @@
 </div>
 
 <h1 dir="rtl">Group Items / آیتم های گروه</h1>
+<p>
+  In this section, we have to specify its details for each of the groups. In the picture below, you can see that the "DrawingTypes" group has several items. In fact, at the time of generating the code, it should be determined what type of document it is. We should consider a abbreviation for each item.
+</p>
 <p dir="rtl">
   در این بخش باید برای هر یک از Groupها جزئیات آن را مشخص کنیم. در تصویر زیر مشاهده می کنید که گروه Drawing Types دارای چندین آیتم می باشد. در واقع در زمان تولید کد باید مشخص شود که نوع سند کدام است. برای هر آیتم باید یک کد اختصاری در نظر بگیریم.
 </p>
@@ -153,6 +171,10 @@
 </div>
 
 <h1 dir="rtl">Group Item Details / جزئیات آیتم های گروه</h1>
+<p>
+  More details can be defined for some items. In the image below, the "Types" group has several items, each of which has more details. For example, "Types" of industrial valves have more groupings.
+</p>
+
 <p dir="rtl">
   برای برخی از آیتم ها می توان جزئیات بیشتری تعریف کرد. در تصویر زیر گروه Types دارای چندین Item می باشد که هر کدام نیز دارای جزئیات بیشتری هستند. برای مثال انواع شیرآلات صنعتی خود دارای گروه بندی بیشتری هستند.
 </p>
@@ -163,11 +185,19 @@
 </div>
 
 <h1 dir="rtl">Important / مهم</h1>
+<p>
+  So far, the basic information has been registered in the database in order to generate the code for the Assemblies/Parts. The important thing in registering information is that we must assign a unique code for all the titles we registered. In the following, you will learn how to use this data.
+</p>
+    
 <p dir="rtl">
   تا اینجا اطلاعات پایه به منظور تولید کد برای قطعات در بانک اطلاعاتی ثبت شده است. نکته مهم در ثبت اطلاعات آنست که برای تمام عنوان هایی که ثبت کردیم باید یک کد منحصر بفرد در نظر بگیریم. در ادامه با چگونگی بکارگیری این داده ها آشنا خواهید شد.
 </p>
 
 <h1 dir="rtl">Coding System / سیستم کدگذاری</h1>
+<p>
+  In this section, we must define the coding system. You can define multiple systems. The default system is named "Default" and you can delete it or edit its title.
+</p>
+
 <p dir="rtl">
   در این بخش باید سیستم کدگذاری را تعریف کنیم. شما می توانید چندین سیستم تعریف کنید. سیستم پیش فرض Default نامگذاری شده و میتوانید آن را حذف و یا عنوان آن را ویرایش کنید.
 </p>
@@ -178,6 +208,12 @@
 </div>
 
 <h1 dir="rtl">Coding System Details / جزئیات سیستم کدگذاری</h1>
+
+<p>
+  After you define the coding system, you can specify the code generation details for each system. The program will automatically select the coding system whose "IsDefault" option is already enabled in the "CodingSystems" section. Next, we intend to define a system that can generate the following code:
+</p>
+
+CES-ASM1244025C06-ASSEMBLY-GATE(PARALLEL DOUBLE-DISC)-REV.3
 
 <p dir="rtl">
   پس از آنکه سیستم کدگذاری را تعریف کردید می توانید برای هر سیستم جزئیات تولید کد را نیز مشخص کنید. برنامه بصورت خودکار سیستم کذگذاری را انتخاب خواهد کرد که از قبل گزینه IsDefault آن در بخش CodingSystems فعال شده باشد. در ادامه قصد داریم تا سیستمی تعریف کنیم که کد زیر را بتواند تولید کند:
@@ -296,3 +332,5 @@ CES-ASM1244025C06-ASSEMBLY-GATE(PARALLEL DOUBLE-DISC)-REV.3
 <p dir="rtl">
   چنانچه پنجره Code Generator را ببندید و مجددا آن را اجرا کنید خواهید دید که کد قبلی مجددا تولید شده است. این ویژگی بدلیل فعال بودن گزینه Remember Previous Selection از بخش Settings می باشد. این ویژگی کمک میکند تا جهت تولید کد بعدی تنهای مولفه های جدید را انتخاب کنید تا کد جدید ایجاد شود و مجبور نباشید تا تمام آیتم ها را مجددا انتخاب کنید.
 </p>
+
+<h1 dir="rtl">Minimal Mode / حالت کمینه</h1>
