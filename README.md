@@ -213,22 +213,44 @@
   After you define the coding system, you can specify the code generation details for each system. The program will automatically select the coding system whose "IsDefault" option is already enabled in the "CodingSystems" section. Next, we intend to define a system that can generate the following code:
 </p>
 
-CES-ASM1244025C06-ASSEMBLY-GATE(PARALLEL DOUBLE-DISC)-REV.3
-
 <p dir="rtl">
   پس از آنکه سیستم کدگذاری را تعریف کردید می توانید برای هر سیستم جزئیات تولید کد را نیز مشخص کنید. برنامه بصورت خودکار سیستم کذگذاری را انتخاب خواهد کرد که از قبل گزینه IsDefault آن در بخش CodingSystems فعال شده باشد. در ادامه قصد داریم تا سیستمی تعریف کنیم که کد زیر را بتواند تولید کند:
 </p>
 
-CES-ASM1244025C06-ASSEMBLY-GATE(PARALLEL DOUBLE-DISC)-REV.3
+<p>
+  CES-ASM1244025C06-ASSEMBLY-GATE(PARALLEL DOUBLE-DISC)-REV.3
+</p>
 
 <div align="center">
   <img alt="Coding System Details" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/964c965a-d586-4ad0-b107-2e557d064819" />
   <p>Coding System Details</p>
 </div>
 
+<p>
+  All that is required in generating the sample code (mentioned above) is defined separately in the "Coding System Details" section. Items that the program will check when defining details:
+</p>
+
 <p dir="rtl">
   تمام آنچه که در تولید نمونه کد بالا مورد نیاز است به تفکیک در بخش Coding System Details تعریف شده است. مورادی که برنامه در زمان تعریف جزئیات بررسی خواهد کرد:
 </p>
+
+<ul>
+  <li><b>System : </b>
+  From this section, we have to choose which system we nedd to use to generate code.
+  </li>
+  <li><b>Group : </b>
+  As explained in the user manual, the generated code can be composed of different elments as described in the "Groups" section of the "Tools" menu. Each item from the "Group" section can only be defined four times in a system, and more than that is not allowed, which will be explained below.
+  </li>
+  <li><b>Use Code : </b>
+  If you enable this option for each group, the program will use its abbreviated equivalent when generating the code, otherwise, it will consider the full phrase.
+  </li>
+  <li><b>Use Detail : </b>
+  If this option is enabled, the program will look for the details of a selected group when generating the code. In this situation, which is explained below, as soon as the user clicks on an item in the code generation area, the program will display the details of that group next to the same item so that the user can choose more options.
+  </li>
+  <li><b>Fix Value : </b>
+  If you want a fixed expression such as the abbreviation of the company name to be inserted at the beginning and anywhere else in the code, you can define it in this section. It is also possible to define dash, underline , parentheses, etc. In such a situation, the program will not pay attention to the selected group and the value of "Use Code" and "Use Detail" and will use the defined value in generating the code. In the code example above, the word "CES" at the beginning of the code and other symbols such as "-" and "()" are of "Fix Value" type.
+  </li>
+<ul>
 
 <ul dir="rtl">
   <li><b>System : </b>
@@ -241,7 +263,7 @@ CES-ASM1244025C06-ASSEMBLY-GATE(PARALLEL DOUBLE-DISC)-REV.3
   اگر این گزینه را به ازای هر گروه فعال کنید برنامه در زمان تولید کد از معادل اختصاری آن استفاده خواهد کرد در غیر اینصورت عبارت کامل در نظر گرفته خواهد کرد.
   </li>
   <li><b>Use Detail : </b>
-  اگر این گزینه فعال شده باشد برنامه در زمان تولید کد به دنبال جزئیات یک گروه انتخاب شده می گردد. در این شرایط که در ادامه توضیح داده شده است، به محض آنکه کاربر در بخش تولید کد روی یک آیتم کلیک بکند برنامه جزئیات آن گروه را در کنار همان آیتم نمایش خواهد داد تا کاربر بتواند گزینه های بیشتری را انتخاب کند.
+  اگر این گزینه فعال شده باشد برنامه در زمان تولید کد به دنبال جزئیات یک گروه انتخاب شده می گردد. در این شرایط که در ادامه توضیح داده شده است، به محض آنکه کاربر در ناحیه تولید کد روی یک آیتم کلیک بکند برنامه جزئیات آن گروه را در کنار همان آیتم نمایش خواهد داد تا کاربر بتواند گزینه های بیشتری را انتخاب کند.
   </li>
   <li><b>Fix Value : </b>
   اگر بخواهید یک عبارت ثابت مانند اختصار نام شرکت در ابتدا و هر جای دیگری از کد درج شود می توانید در این قسمت تعریف کنید. همچنین تعریف خط فاصله، پرانتز و... نیز امکانپذیر می باشد. در چنین شرایطی برنامه به گروه انتخاب شده و مقدار Use Code و Use Detail توجه نخواهد کرد و در تولید کد از مقدار تعریف شده استفاده خواهد کرد. در نمونه کد بالا عبارت CES در ابتدای کد و سایر علامت ها مانند - و () ازنوع Fix Value هستند.
@@ -249,6 +271,11 @@ CES-ASM1244025C06-ASSEMBLY-GATE(PARALLEL DOUBLE-DISC)-REV.3
 </ul>
 
 <h1 dir="rtl">Important / مهم</h1>
+
+<p>
+  You can define as many "Fix Values" as you need, but groups can only be repeated four times in a system, and more than that is not allowed.
+</p>
+
 <p dir = rtl>
   به هر تعداد که لازم داشته باشید می توانید Fix Value تعریف کنید ولی گروه ها تنها چهار بار می توانند در یک سیستم تکرار شوند و بیشتر از آن مجاز نیست.
 </p>
@@ -258,6 +285,30 @@ CES-ASM1244025C06-ASSEMBLY-GATE(PARALLEL DOUBLE-DISC)-REV.3
 <div align="center">
   <img atl="Code Generator" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/4508b8bb-384f-438c-b20f-606cc57edefc" />
 </div>
+
+<ul>
+  <li><b>System : </b>
+  Before generating the code, you can choose which system the program will use to generate the code.
+  </li>
+  <li><b>Code : </b>
+  This section displays the elements that will form the final code. Items that are not yet selected are placed between "[]" and a "?" is also added at the end. The "Fix Value" values will be displayed in a fixed manner and according to the defined order.
+  </li>
+  <li><b>Refresh : </b>
+  By clicking this button, the information of the coding system will be updated (if the data is edited directly from the database, you need to execute this command).
+  </li>
+  <li><b>Clear Code : </b>
+  It will delete the generated code and the user will have to select all the elements from the beginning.
+  </li>
+  <li><b>Apply To Assembly : </b>
+  Apply the generated code to the assembly file (the file must be active in CATIA).
+  </li>
+  <li><b>Apply To Part : </b>
+    Apply the generated code to the part file (the file must be active in CATIA).
+  </li>
+  <li><b>Selection Area : </b>
+  If you pay attention to this area, you will see that the program has created tabs with the same name according to the groups that we defined in the "Coding System Details" section for a "system" and displayed the information of each group in it.
+  </li>
+</ul>
 
 <ul dri="rtl">
   <li><b>System : </b>
@@ -273,10 +324,10 @@ CES-ASM1244025C06-ASSEMBLY-GATE(PARALLEL DOUBLE-DISC)-REV.3
   کد تولید شده را پاک خواهد کرد و کاربر باید از ابتدا تمامی مولفه ها را انتخاب کند.
   </li>
   <li><b>Apply To Assembly : </b>
-  اعمال کد تولید شده روی فایل مونتاژ (فایل باید در حالت انتخاب باشد).
+  اعمال کد تولید شده روی فایل مونتاژ (فایل باید در CATIA فعال باشد).
   </li>
   <li><b>Apply To Part : </b>
-  اعمال کد تولید شده روی فایل قطعه (فایل باید در حالت انتخاب باشد).
+  اعمال کد تولید شده روی فایل قطعه (فایل باید در CATIA فعال باشد).
   </li>
   <li><b>Selection Area : </b>
   اگر به این ناحیه دقت کنید خواهید دید که به ترتیب گروه هایی که در بخش Coding System Details برای یک سیستم تعریف کرده بودیم برنامه زبانه هایی با همان نام ایجاد کرده و اطلاعات هر یک از گروه ها را نیز در آن نمایش داده است.
@@ -284,6 +335,10 @@ CES-ASM1244025C06-ASSEMBLY-GATE(PARALLEL DOUBLE-DISC)-REV.3
 </ul>
 
 <h1 dir="rtl">Work with Code generator / کار با تولید کننده کد</h1>
+<p>
+  If any of the code elements is displayed as [?], it means that the user has not selected an item from this group yet. For example, we first go to the "Revision" tab and select a revision number. The result will be as follows:
+</p>
+    
 <p dir="rtl">
   چنانچه هر یک از مولفه های کد بصورت [?] نمایش داده شده باشد یعنی آنکه کاربر از این گروه هنوز گزینه ای را انتخاب نکرده است. برای مثال ابتدا به برگه Revision  می رویم و یک شماره نسخه انتخاب میکنیم. نتیجه بصورت زیر خواهد شد:
 </p>
@@ -291,6 +346,10 @@ CES-ASM1244025C06-ASSEMBLY-GATE(PARALLEL DOUBLE-DISC)-REV.3
   [Revision?] => Rev.3
   <br/>  
   CES-[DRAWING TYPES?][GROUPS?][PRODUCTION METHODS?][SIZES?][PARTS?][TYPES?]-[DRAWING TYPES?]-[TYPES?]([TYPES?])-REV.3
+</p>
+
+<p>
+  In this step, we make a correction on "Coding System Details" and activate the "UseDetail" option in order number 2. The "Drawing Types" do not have subsets and we intend to observe the results of these changes. Now that the changes have been applied, go to "Code Generator" again and select an item from "Darwing Type" tab. Considering that we have defined a group in the coding system in Orders No. 2 and 9, in No. 2 the system is told to use the values of the subset and in No. 9 it is said to use the group itself. The result will be as follows:
 </p>
 
 <p dir="rtl">
@@ -304,10 +363,9 @@ CES-ASM1244025C06-ASSEMBLY-GATE(PARALLEL DOUBLE-DISC)-REV.3
   CES-[DRAWING TYPES?][GROUPS?][PRODUCTION METHODS?][SIZES?][PARTS?][TYPES?]-ASSEMBLY-[TYPES?]([TYPES?])-REV.3
 <p>
 
-<p dir="rtl">
+<p>
+  If you encounter such a case, you should modify the code definition. Next, we are going to go to the "Types" tab to see an example of a coding component that has a subset. In the "Types" tab, select the "Gate" item as shown in the image below, as soon as an item is selected, a list of sub-set items will be displayed on the right side, and correspondingly the selected values of the code will be generated as follows:
 </p>
-<p>
-<p>
 
 <p dir="rtl">
   اگر با چنین موردی مواجه شدید باید تعریف کد را اصلاح کنید. در ادامه قصد داریم به برگه Types برویم تا نمونه ای از مولفه کدگذاری که دارای زیر مجموعه هست را مشاهده کنیم. در برگه Types گزینه Gate را انتخاب کنید. همانطور که در تصویر زیر مشخص شده به محض انتخاب یک آیتم، لیستی از آیتم های زیر مجموعه در سمت را نمایش داده خواهد شد و متناسب را مقادیر انتخاب شده کد بصورت زیر تولید خواهد شد:
@@ -321,6 +379,10 @@ CES-ASM1244025C06-ASSEMBLY-GATE(PARALLEL DOUBLE-DISC)-REV.3
 <p>Generated Code</p>
 </div>
 
+<p>
+  Then, by choosing other items, the final code will be generated as follows:
+</p>
+
 <p dir="rtl">
   در ادامه با انتخاب سایر گزینه ها کد نهایی بصورت زیر تولید خواهد شد:
 </p>
@@ -329,6 +391,10 @@ CES-ASM1244025C06-ASSEMBLY-GATE(PARALLEL DOUBLE-DISC)-REV.3
 <p>
   
 <h1 dir="rtl">Important / مهم</h1>
+<p>
+  If you close the "Code Generator" window and run it again, you will see that the previous code has been regenerated. This feature is due to the activation of the "Remember Previous Selection" option from the "Settings" section. This feature helps to select only the new elements to generate the next code so that the new code is created and you don't have to select all the items again.
+</p>
+    
 <p dir="rtl">
   چنانچه پنجره Code Generator را ببندید و مجددا آن را اجرا کنید خواهید دید که کد قبلی مجددا تولید شده است. این ویژگی بدلیل فعال بودن گزینه Remember Previous Selection از بخش Settings می باشد. این ویژگی کمک میکند تا جهت تولید کد بعدی تنهای مولفه های جدید را انتخاب کنید تا کد جدید ایجاد شود و مجبور نباشید تا تمام آیتم ها را مجددا انتخاب کنید.
 </p>
