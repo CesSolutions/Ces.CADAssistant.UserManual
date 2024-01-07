@@ -259,18 +259,18 @@ CES-ASM1244025C06-ASSEMBLY-GATE(PARALLEL DOUBLE-DISC)-REV.3
   CES-[DRAWING TYPES?][GROUPS?][PRODUCTION METHODS?][SIZES?][PARTS?]C03-ASSEMBLY-GATE(SOLID ONE-PIECE WEDGE)-REV.3
 <p>
 
+<div align="center">
+  <img alt="Generated Code" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/8e64894c-7a9f-4a66-a551-3bc2e17b1e3c" />
+<p>Generated Code</p>
+</div>
+
 <p dir="rtl">
   در ادامه با انتخاب سایر گزینه ها کد نهایی بصورت زیر تولید خواهد شد:
 </p>
 <p>
   CES-ASM2105024C01-ASSEMBLY-GATE(BOLTED BONNET)-REV.3
 <p>
-
-<div align="center">
-  <img alt="Generated Code" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/8e64894c-7a9f-4a66-a551-3bc2e17b1e3c" />
-<p>Generated Code</p>
-</div>
-
+  
 <h1 dir="rtl">Important / مهم</h1>
 <p dir="rtl">
   چنانچه پنجره Code Generator را ببندید و مجددا آن را اجرا کنید خواهید دید که کد قبلی مجددا تولید شده است. این ویژگی بدلیل فعال بودن گزینه Remember Previous Selection از بخش Settings می باشد. این ویژگی کمک میکند تا جهت تولید کد بعدی تنهای مولفه های جدید را انتخاب کنید تا کد جدید ایجاد شود و مجبور نباشید تا تمام آیتم ها را مجددا انتخاب کنید.
