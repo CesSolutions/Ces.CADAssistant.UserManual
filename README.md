@@ -228,5 +228,42 @@ CES-ASM1244025C06-ASSEMBLY-GATE(PARALLEL DOUBLE-DISC)-REV.3
 
 <h1 dir="rtl">Work with Code generator / کار با تولید کننده کد</h1>
 <p dir="rtl">
-  
+  چنانچه هر یک از مولفه های کد بصورت [?] نمایش داده شده باشد یعنی آنکه کاربر از این گروه هنوز گزینه ای را انتخاب نکرده است. برای مثال ابتدا به برگه Revision  می رویم و یک شماره نسخه انتخاب میکنیم. نتیجه بصورت زیر خواهد شد:
 </p>
+<p>
+  [Revision?] => Rev.3
+  
+  CES-[DRAWING TYPES?][GROUPS?][PRODUCTION METHODS?][SIZES?][PARTS?][TYPES?]-[DRAWING TYPES?]-[TYPES?]([TYPES?])-REV.3
+</p>
+
+<p dir="rtl">
+  در این مرحله یک اصلاحیه روی Coding System Details انجام میدهیم و گزینه UseDetail ترتیب شماره 2 را فعال میکنیم. نقشه ها زیر مجموعه ندارند و قصد داریم تا نتیجه این تغیرات را مشاهده کنیم. حال که تغییرات اعمال شد مجددا به Code Generator بروید و از برگه Darwing  Type یک گزینه انتخاب کنید. با توجه به اینکه در سیستم کدگذاری در Orderها شماره  2 و 9 یک گروه تعریف کرده ایم که در شماره 2 به سیستم گفته شده که از مقادیر زیر مجموعه و در شماره 9 گفته شده از خود گروه استفاده شود. نتیجه بصورت زیر خواهد شد:
+</p>
+<p>
+  Order 2 : [Drawing Type?] => [Drawing Type?]
+  Order 9 : [Drawing Type?] => Assembly
+
+  CES-[DRAWING TYPES?][GROUPS?][PRODUCTION METHODS?][SIZES?][PARTS?][TYPES?]-ASSEMBLY-[TYPES?]([TYPES?])-REV.3
+<p>
+
+<p dir="rtl">
+</p>
+<p>
+<p>
+
+<p dir="rtl">
+  اگر با چنین موردی مواجه شدید باید تعریف کد را اصلاح کنید. در ادامه قصد داریم به برگه Types برویم تا نمونه ای از مولفه کدگذاری که دارای زیر مجموعه هست را مشاهده کنیم. در برگه Types گزینه Gate را انتخاب کنید. همانطور که در تصویر زیر مشخص شده به محض انتخاب یک آیتم، لیستی از آیتم های زیر مجموعه در سمت را نمایش داده خواهد شد و متناسب را مقادیر انتخاب شده کد بصورت زیر تولید خواهد شد:
+</p>
+<p>
+  CES-[DRAWING TYPES?][GROUPS?][PRODUCTION METHODS?][SIZES?][PARTS?]C03-ASSEMBLY-GATE(SOLID ONE-PIECE WEDGE)-REV.3
+<p>
+
+<p dir="rtl">
+</p>
+<p>
+<p>
+
+<div align="center">
+  <img alt="Generated Code" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/8e64894c-7a9f-4a66-a551-3bc2e17b1e3c" />
+<p>Generated Code</p>
+</div>
