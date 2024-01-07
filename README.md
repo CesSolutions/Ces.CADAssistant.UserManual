@@ -159,8 +159,10 @@
 <h1 dir="rtl">Coding System Details / جزئیات سیستم کدگذاری</h1>
 
 <p dir="rtl">
-  پس از آنکه سیستم کدگذاری را تعریف کردید می توانید برای هر سیستم جزئیات تولید کد را نیز مشخص کنید. برنامه بصورت خودکار سیستم کذگذاری را انتخاب خواهد کرد که از قبل گزینه IsDefault آن در بخش CodingSystems فعال شده باشد.
+  پس از آنکه سیستم کدگذاری را تعریف کردید می توانید برای هر سیستم جزئیات تولید کد را نیز مشخص کنید. برنامه بصورت خودکار سیستم کذگذاری را انتخاب خواهد کرد که از قبل گزینه IsDefault آن در بخش CodingSystems فعال شده باشد. در ادامه قصد داریم تا سیستمی تعریف کنیم که کد زیر را بتواند تولید کند:
 </p>
+
+CES-ASM1244025C06-ASSEMBLY-GATE(PARALLEL DOUBLE-DISC)-REV.3
 
 <div align="center">
   <img alt="Coding System Details" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/964c965a-d586-4ad0-b107-2e557d064819" />
