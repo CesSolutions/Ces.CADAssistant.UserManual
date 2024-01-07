@@ -21,6 +21,12 @@
 </p>
 
 <h1 dir="rtl">Tools Menu / منوی Tools</h1>
+
+<div align="center">
+  <img alt="Tools Menu" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/d9f43723-fe69-4df6-a309-7c8366785a8b" />
+  <p>Tools Menu</p>
+</div>
+
 <ul>
   <li><b>Groups : <b/></li>
   <li><b>Group Items : <b/></li>
