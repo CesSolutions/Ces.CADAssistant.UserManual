@@ -199,5 +199,34 @@ CES-ASM1244025C06-ASSEMBLY-GATE(PARALLEL DOUBLE-DISC)-REV.3
 <h1 dir="rtl">Code Generator / تولید کننده کد</h1>
 
 <div align="center">
-  <img atl="Code Generator" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/3944d073-dd19-4d8a-bfd3-ee20a2f01133" />
+  <img atl="Code Generator" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/4508b8bb-384f-438c-b20f-606cc57edefc" />
 </div>
+
+<ul dri="rtl">
+  <li><b>System : </b>
+  قبل از تولید کد می توانید انتخاب کنید که برنامه مطابق با کدام سیستم اقدام به تولید کد نماید.
+  </li>
+  <li><b>Code : </b>
+  این قسمت مولفه هایی که کد نهایی را تشکیل خواهند داد را نمایش میدهد. مواردی که هنوز انتخاب نشده باشند بین [] قرار میگیرند و یک علامت ؟ نیز در انتها به آن اضافه شده است. مقادیر Fix Value بصورت ثابت و مطابق ترتیب تعریف شده نمایش داده خواهند شد.
+  </li>
+  <li><b>Refresh : </b>
+  با کلیک روی این دکمه اطلاعات سیستم کدگذاری بروزرسانی خواهد شد (اگر داده ها مستقیما از بانک اطلاعاتی ویرایش شوند نیاز است تا این دستور را اجرا کنید).
+  </li>
+  <li><b>Clear Code : </b>
+  کد تولید شده را پاک خواهد کرد و کاربر باید از ابتدا تمامی مولفه ها را انتخاب کند.
+  </li>
+  <li><b>Apply To Assembly : </b>
+  اعمال کد تولید شده روی فایل مونتاژ (فایل باید در حالت انتخاب باشد).
+  </li>
+  <li><b>Apply To Part : </b>
+  اعمال کد تولید شده روی فایل قطعه (فایل باید در حالت انتخاب باشد).
+  </li>
+  <li><b>Selection Area : </b>
+  اگر به این ناحیه دقت کنید خواهید دید که به ترتیب گروه هایی که در بخش Coding System Details برای یک سیستم تعریف کرده بودیم برنامه زبانه هایی با همان نام ایجاد کرده و اطلاعات هر یک از گروه ها را نیز در آن نمایش داده است.
+  </li>
+</ul>
+
+<h1 dir="rtl">Work with Code generator / کار با تولید کننده کد</h1>
+<p dir="rtl">
+  
+</p>
