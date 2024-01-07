@@ -240,10 +240,11 @@ CES-ASM1244025C06-ASSEMBLY-GATE(PARALLEL DOUBLE-DISC)-REV.3
   در این مرحله یک اصلاحیه روی Coding System Details انجام میدهیم و گزینه UseDetail ترتیب شماره 2 را فعال میکنیم. نقشه ها زیر مجموعه ندارند و قصد داریم تا نتیجه این تغیرات را مشاهده کنیم. حال که تغییرات اعمال شد مجددا به Code Generator بروید و از برگه Darwing  Type یک گزینه انتخاب کنید. با توجه به اینکه در سیستم کدگذاری در Orderها شماره  2 و 9 یک گروه تعریف کرده ایم که در شماره 2 به سیستم گفته شده که از مقادیر زیر مجموعه و در شماره 9 گفته شده از خود گروه استفاده شود. نتیجه بصورت زیر خواهد شد:
 </p>
 <p>
-  Order 2 : [Drawing Type?] => [Drawing Type?]
-  Order 9 : [Drawing Type?] => Assembly
+  Order 2 : [Drawing Type?] => [Drawing Type?] <br/>
+  Order 9 : [Drawing Type?] => Assembly <br/>
 [asdasd]
   (asdasdasd)
+  <br/>
   CES-[DRAWING TYPES?][GROUPS?][PRODUCTION METHODS?][SIZES?][PARTS?][TYPES?]-ASSEMBLY-[TYPES?]([TYPES?])-REV.3
 <p>
 
