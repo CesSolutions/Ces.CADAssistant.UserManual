@@ -230,10 +230,6 @@
   All that is required in generating the sample code (mentioned above) is defined separately in the "Coding System Details" section. Items that the program will check when defining details:
 </p>
 
-<p dir="rtl">
-  تمام آنچه که در تولید نمونه کد بالا مورد نیاز است به تفکیک در بخش Coding System Details تعریف شده است. مورادی که برنامه در زمان تعریف جزئیات بررسی خواهد کرد:
-</p>
-
 <ul>
   <li><b>System : </b>
   From this section, we have to choose which system we nedd to use to generate code.
@@ -251,6 +247,10 @@
   If you want a fixed expression such as the abbreviation of the company name to be inserted at the beginning and anywhere else in the code, you can define it in this section. It is also possible to define dash, underline , parentheses, etc. In such a situation, the program will not pay attention to the selected group and the value of "Use Code" and "Use Detail" and will use the defined value in generating the code. In the code example above, the word "CES" at the beginning of the code and other symbols such as "-" and "()" are of "Fix Value" type.
   </li>
 <ul>
+
+<p dir="rtl">
+  تمام آنچه که در تولید نمونه کد بالا مورد نیاز است به تفکیک در بخش Coding System Details تعریف شده است. مورادی که برنامه در زمان تعریف جزئیات بررسی خواهد کرد:
+</p>
 
 <ul dir="rtl">
   <li><b>System : </b>
