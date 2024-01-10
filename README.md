@@ -11,12 +11,11 @@
   </div>
 </div>
 
-Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
   <div align="center">
-    <img src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/9de1fd91-cf04-4592-af1b-7c288a0a66f5"/>  
+    <img width="400" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/9de1fd91-cf04-4592-af1b-7c288a0a66f5"/>  
   </div> |    <div align="center">
-    <img src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/6b553ec6-5b93-4e2c-ab4b-b5429ab1fa85"/>  
+    <img width="400" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/6b553ec6-5b93-4e2c-ab4b-b5429ab1fa85"/>  
   </div>
 
 <div align="center">
