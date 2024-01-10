@@ -2,7 +2,14 @@
 <p>User manual for guidance in order to use the Ces.CADAssistant desktop application to generate Assembly/Part code.</p>
 <p dir="rtl">دستورالعمل کاربر جهت راهنمایی به منظور استفاده از برنامه Ces.CADAssistant جهت تولید کد مونتاژ / قطعه.</p>
 
-
+<div align="center">
+  <div align="center">
+    <img width="400" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/9de1fd91-cf04-4592-af1b-7c288a0a66f5"/>  
+  </div>
+  <div align="center">
+    <img width="400" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/6b553ec6-5b93-4e2c-ab4b-b5429ab1fa85"/>  
+  </div>
+</div>
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
