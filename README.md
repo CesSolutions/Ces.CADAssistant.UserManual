@@ -8,6 +8,21 @@
 </div>
 
 <div align="center">
+    <img src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/d95e758b-42c1-43eb-85ed-0308f6ae4021"/>  
+    <p>Catia Sample</p>
+</div>
+
+<div align="center">
+    <img src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/0ee2265c-2d06-4d08-b3e5-a6b965c61732"/>  
+    <p>Autodesk Inventor Sample</p>
+</div>
+
+<div align="center">
+    <img width="800" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/8ad50574-ebae-4e0d-b89f-3631b9909b00"/>  
+    <p>Catia and Inventor Logo</p>
+</div>
+
+<div align="center">
   <img alt="Main Form" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/eed965dc-109b-4cb0-99f1-c4d33bef58f4"/>  
   <p>CAD Assistant Main Form</p>
 </div>
