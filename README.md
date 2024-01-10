@@ -3,16 +3,8 @@
 <p dir="rtl">دستورالعمل کاربر جهت راهنمایی به منظور استفاده از برنامه Ces.CADAssistant جهت تولید کد مونتاژ / قطعه.</p>
 
 <div align="center">
-    <img width="800" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/509cc2d8-066d-4550-a0e0-e52cf910292e"/>  
-</div>
-
-<div align="center">
-  <div align="center">
-    <img width="400" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/9de1fd91-cf04-4592-af1b-7c288a0a66f5"/>  
-  </div>
-  <div align="center">
-    <img width="400" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/6b553ec6-5b93-4e2c-ab4b-b5429ab1fa85"/>  
-  </div>
+    <img width="800" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/8ad50574-ebae-4e0d-b89f-3631b9909b00"/>  
+    <p>Catia and Inventor Logo</p>
 </div>
 
 <div align="center">
