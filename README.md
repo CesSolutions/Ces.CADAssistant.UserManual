@@ -9,7 +9,7 @@
 
 <div align="center">
   <img alt="Main Form" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/eed965dc-109b-4cb0-99f1-c4d33bef58f4"/>  
-  <p>Main Form</p>
+  <p>CAD Assistant Main Form</p>
 </div>
 
 <p>
