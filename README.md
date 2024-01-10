@@ -1,9 +1,9 @@
-# Ces.CatiaAssistant.UserManual
-<p>User manual for guidance in order to use the Ces.CatiaAssistant desktop application to generate Assembly/Part code.</p>
-<p dir="rtl">دستورالعمل کاربر جهت راهنمایی به منظور استفاده از برنامه Ces.CatiaAssistant جهت تولید کد مونتاژ / قطعه.</p>
+# Ces.CADAssistant.UserManual
+<p>User manual for guidance in order to use the Ces.CADAssistant desktop application to generate Assembly/Part code.</p>
+<p dir="rtl">دستورالعمل کاربر جهت راهنمایی به منظور استفاده از برنامه Ces.CADAssistant جهت تولید کد مونتاژ / قطعه.</p>
 
 <div align="center">
-  <img alt="Main Form" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/eed965dc-109b-4cb0-99f1-c4d33bef58f4"/>  
+  <img alt="Main Form" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/eed965dc-109b-4cb0-99f1-c4d33bef58f4"/>  
   <p>Main Form</p>
 </div>
 
@@ -15,22 +15,22 @@
 </p>
 
 <div align="center">
-  <img width="600" alt="DocumentNumberingSample" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/f8f1138f-aab3-459e-8b4a-e543dcd97a6f">
+  <img width="600" alt="DocumentNumberingSample" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/f8f1138f-aab3-459e-8b4a-e543dcd97a6f">
   <p>Sample Numbering</p>
 </div>
 
 <p>
-  Generating code many times and in large numbers can be very time-consuming, and there will also be human error. Therefore, the CatiaAssistant program gives the designer the possibility to define the coding procedure and easily generate many codes and apply them to his parts and assemblies.
+  Generating code many times and in large numbers can be very time-consuming, and there will also be human error. Therefore, the CADAssistant program gives the designer the possibility to define the coding procedure and easily generate many codes and apply them to his parts and assemblies.
 </p>
 
 <p dir="rtl">
-  تولید کد به دفعات و تعداد زیاد می تواند بسیار وقتگیر باشد ضمن آنکه خطای انسانی نیز وجود خواهد داشت. لذا برنامه CatiaAssistant این امکان را به طراح می دهد تا ضمن تعریف دستورالعمل مورد نظر، براحتی بتواند کدهای زیاد تولید و روی قطعات و مونتاژهای خود اعمال کند.
+  تولید کد به دفعات و تعداد زیاد می تواند بسیار وقتگیر باشد ضمن آنکه خطای انسانی نیز وجود خواهد داشت. لذا برنامه CADAssistant این امکان را به طراح می دهد تا ضمن تعریف دستورالعمل مورد نظر، براحتی بتواند کدهای زیاد تولید و روی قطعات و مونتاژهای خود اعمال کند.
 </p>
 
 <h1 dir="rtl">Tools Menu / منوی Tools</h1>
 
 <div align="center">
-  <img alt="Tools Menu" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/d9f43723-fe69-4df6-a309-7c8366785a8b" />
+  <img alt="Tools Menu" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/d9f43723-fe69-4df6-a309-7c8366785a8b" />
   <p>Tools Menu</p>
 </div>
 
@@ -88,7 +88,7 @@
 </p>
 
 <div align="center">
-  <img alt="Settings" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/25150af8-f60d-4c11-9da4-f0760b74fbf1"/>
+  <img alt="Settings" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/25150af8-f60d-4c11-9da4-f0760b74fbf1"/>
   <p>Settings</p>
 </div>
 
@@ -140,7 +140,7 @@
 </ul>
 
 <div align="center">
-  <img alt="Delete and Edit Button" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/84f3d817-eda3-4243-aeb7-8dfa32dbdf26"/>
+  <img alt="Delete and Edit Button" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/84f3d817-eda3-4243-aeb7-8dfa32dbdf26"/>
   <p>Showing Delete & Edit button For Each Item in Code Generator</p>
 </div>
 
@@ -153,7 +153,7 @@
 </p>
 
 <div align="center">
-  <img alt="Groups" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/d0f04c9d-0ee3-4ffa-a6c1-d41e7bec324a"/>
+  <img alt="Groups" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/d0f04c9d-0ee3-4ffa-a6c1-d41e7bec324a"/>
   <p>Groups</p>
 </div>
 
@@ -166,7 +166,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/80727d4e-a4ad-4242-9471-b773951b57e8"/>
+  <img src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/80727d4e-a4ad-4242-9471-b773951b57e8"/>
   <p>Group Items</p>
 </div>
 
@@ -180,7 +180,7 @@
 </p>
 
 <div align="center">
-  <img alt="Group Item Details" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/41222679-c7a6-461f-9fb5-a7a69cbb3e04"/>
+  <img alt="Group Item Details" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/41222679-c7a6-461f-9fb5-a7a69cbb3e04"/>
   <p>Group Item Details</p>
 </div>
 
@@ -203,7 +203,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/a614e4ef-9992-48e2-bc61-b6e67690ca51" />
+  <img src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/a614e4ef-9992-48e2-bc61-b6e67690ca51" />
   <p>Coding Systems</p>
 </div>
 
@@ -222,7 +222,7 @@
 </p>
 
 <div align="center">
-  <img alt="Coding System Details" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/964c965a-d586-4ad0-b107-2e557d064819" />
+  <img alt="Coding System Details" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/964c965a-d586-4ad0-b107-2e557d064819" />
   <p>Coding System Details</p>
 </div>
 
@@ -283,7 +283,7 @@
 <h1 dir="rtl">Code Generator / تولید کننده کد</h1>
 
 <div align="center">
-  <img atl="Code Generator" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/4508b8bb-384f-438c-b20f-606cc57edefc" />
+  <img atl="Code Generator" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/4508b8bb-384f-438c-b20f-606cc57edefc" />
 </div>
 
 <ul>
@@ -300,10 +300,10 @@
   It will delete the generated code and the user will have to select all the elements from the beginning.
   </li>
   <li><b>Apply To Assembly : </b>
-  Apply the generated code to the assembly file (the file must be active in CATIA).
+  Apply the generated code to the assembly file (the file must be active in CAD).
   </li>
   <li><b>Apply To Part : </b>
-    Apply the generated code to the part file (the file must be active in CATIA).
+    Apply the generated code to the part file (the file must be active in CAD).
   </li>
   <li><b>Selection Area : </b>
   If you pay attention to this area, you will see that the program has created tabs with the same name according to the groups that we defined in the "Coding System Details" section for a "system" and displayed the information of each group in it.
@@ -324,10 +324,10 @@
   کد تولید شده را پاک خواهد کرد و کاربر باید از ابتدا تمامی مولفه ها را انتخاب کند.
   </li>
   <li><b>Apply To Assembly : </b>
-  اعمال کد تولید شده روی فایل مونتاژ (فایل باید در CATIA فعال باشد).
+  اعمال کد تولید شده روی فایل مونتاژ (فایل باید در CAD فعال باشد).
   </li>
   <li><b>Apply To Part : </b>
-  اعمال کد تولید شده روی فایل قطعه (فایل باید در CATIA فعال باشد).
+  اعمال کد تولید شده روی فایل قطعه (فایل باید در CAD فعال باشد).
   </li>
   <li><b>Selection Area : </b>
   اگر به این ناحیه دقت کنید خواهید دید که به ترتیب گروه هایی که در بخش Coding System Details برای یک سیستم تعریف کرده بودیم برنامه زبانه هایی با همان نام ایجاد کرده و اطلاعات هر یک از گروه ها را نیز در آن نمایش داده است.
@@ -375,7 +375,7 @@
 <p>
 
 <div align="center">
-  <img alt="Generated Code" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/8e64894c-7a9f-4a66-a551-3bc2e17b1e3c" />
+  <img alt="Generated Code" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/8e64894c-7a9f-4a66-a551-3bc2e17b1e3c" />
 <p>Generated Code</p>
 </div>
 
@@ -401,14 +401,14 @@
 
 <h1 dir="rtl">Minimal Mode / حالت کمینه</h1>
 <p>
-  Having the "CatiaAssistant" program open may take up screen space and prevent the designer from working. Therefore, choosing "Minimal Mode" will help to make more space available to the designer and the program will be displayed with a small icon on the right-bottom side of the screen. If you click on the icon, the "Code Generator" window will be launched, and if you right-click, the main page of the program will be launched.
+  Having the "CADAssistant" program open may take up screen space and prevent the designer from working. Therefore, choosing "Minimal Mode" will help to make more space available to the designer and the program will be displayed with a small icon on the right-bottom side of the screen. If you click on the icon, the "Code Generator" window will be launched, and if you right-click, the main page of the program will be launched.
 </p>
 
 <p dir="rtl">
-  باز بودن برنامه CatiaAssistant ممکن است فضای صفحه نمایش را اشغال کند و مانع کار کردن طراح شود. بنابراین انتخاب Minimal Mode کمک خواهد کرد تا فضای بیشتری در دسترس طراح باشد و برنامه با یک آیکن کوچک در سمت راست-پایین صفحه نمایش نمایش داده خواهد شد. اگر روی آیکن کلیک کنید پنجره Code Generator اجرا خواهد شد و اگر راست کلیک کنید صفحه اصلی برنامه اجرا خواهد شد.
+  باز بودن برنامه CADAssistant ممکن است فضای صفحه نمایش را اشغال کند و مانع کار کردن طراح شود. بنابراین انتخاب Minimal Mode کمک خواهد کرد تا فضای بیشتری در دسترس طراح باشد و برنامه با یک آیکن کوچک در سمت راست-پایین صفحه نمایش نمایش داده خواهد شد. اگر روی آیکن کلیک کنید پنجره Code Generator اجرا خواهد شد و اگر راست کلیک کنید صفحه اصلی برنامه اجرا خواهد شد.
 </p>
 
 <div align="center">
-  <img alt="Minimal Mode" src="https://github.com/CesSolutions/Ces.CatiaAssistant.UserManual/assets/74654532/13a4baa0-d219-464d-b582-b17bf211678b">
+  <img alt="Minimal Mode" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/13a4baa0-d219-464d-b582-b17bf211678b">
   <p>Minimal Mode</p>
 </div>
