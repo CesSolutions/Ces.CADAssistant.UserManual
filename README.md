@@ -65,6 +65,9 @@
   <li><b>Coding system Details : <b/>
     After you have defined the coding system, it is necessary to define the coding details for each systems. Therefore, in this section, you can determine the code generation procedure.
   </li>
+  <li><b>Projects : <b/>
+    It is possible to define projects to trace generated part number and keep records of generated codes with associated files.
+  </li>      
   <li><b>Settings : <b/>
     In the settings section, you can create a new database or use an existing database.
   </li>
@@ -89,6 +92,9 @@
   <li><b>Coding system Details : <b/>
     پس از آنکه سیستم کدگذاری را تعریف کردید ضروریست تا به ازای هر یک از سیستم ها جزئیات کدگذاری را تعریف کنید. بنابراین در این بخش می توانید شیوه تولید کد را تعیین کنید.
   </li>
+  <li><b>Projects : <b/>
+    این امکان وجود دارد که پروژه تعریف کنید و کدهای تولید شده را کنترل و مدیریت کنید. امکان تطبیق کدهای تولید شده و فایل های موجود در سیستم وجود دارد.
+  </li>      
   <li><b>Settings : <b/>
     در بخش تنظیمات می توانید بانک اطلاعاتی جدید ایجاد کنید و یا از بانک اطلاعاتی قبلی استفاده کنید.
   </li>
@@ -132,6 +138,9 @@
   <li><b>Show Edit Button Next To Items : </b>
     During code generation, the "Edit" option is displayed next to all items so that you can edit that row from the database. It is recommended that this option be disabled unless you are setting up an coding system.
   </li>
+  <li><b>Update File Path If Exist : </b>
+    When you apply generated codes to part or assembly, application check physical path and if exist in database, will be updated.
+  </li>    
   <li><b>Select Existing : </b>
   If the database is not recognized in the first run of the application, you can select the previous database to the program.
   </li>
@@ -153,6 +162,9 @@
   <li><b>Show Edit Button Next To Items : </b>
   در زمان تولید کد گزینه ویرایش در کنار تمام آیتم ها نمایش داده می شود تا بتوانید آن ردیف را از بانک اطلاعاتی ویرایش کنید. پیشنهاد می گردد این گزینه غیرفعال باشد مگر آنکه در حال تنظیم سیستم کدگذاری هستید.
   </li>
+  <li><b>Update File Path If Exist : </b>
+  زمانی که کد تولید شده را به فایل قطعه یا مونتاژ اعمال می کنید، اگر قبلا به یک فایل تخصیص داده شده باشد برنامه مسیر فایل را در بانک اطلاعاتی بروزرسانی خواهد کرد.
+  </li>    
   <li><b>Select Existing : </b>
   در صورتی که در اولین اجرای برنامه بانک اطلاعاتی شناسایی نشد می توانید بانک اطلاعاتی قبلی را به برنامه معرفی کنید.
   </li>
