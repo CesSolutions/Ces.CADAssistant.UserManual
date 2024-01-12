@@ -110,6 +110,22 @@
   <p>Help Menu</p>
 </div>
 
+<ul>
+    <li><b>Register : </b>
+        In this section, you can activate the program and don't have limitation on display of information. Without activation, the program has no restrictions on data recording, but you will face restrictions in the code generation environment.
+    </li>
+</ul>
+<ul dir="rtl">
+    <li><b>Register : </b>
+        در این قسمت می توانید برنامه را فعال کرده و محدودیت نمایش اطلاعات را نداشته باشید. برنامه بدون فعالسازی محدودیتی در ثبت داده ها ندارد ولی در محیط تولید کد با محدودیت مواجه خواهید شد.
+    </li>
+</ul>
+
+<div align="center">
+  <img alt="Registration" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/f8b4db64-b749-4052-89c7-00303056fbd1" />
+  <p>Registration</p>
+</div>
+
 <h1 dir="rtl">First Execution / اولین اجرای برنامه</h1>
 <p>
   پس از اولین اجرای برنامه چنانچه بانک اطلاعاتی پیدا نشود برنامه پنجره Settings را باز خواهد کرد و شما باید تعیین کنید که برنامه یک بانک اطلاعاتی جدید ایجاد کند و یا اینکه از بانک اطلاعاتی قبلی استفاده کند.
