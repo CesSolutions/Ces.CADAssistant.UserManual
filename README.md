@@ -314,6 +314,21 @@
   به هر تعداد که لازم داشته باشید می توانید Fix Value تعریف کنید ولی گروه ها تنها چهار بار می توانند در یک سیستم تکرار شوند و بیشتر از آن مجاز نیست.
 </p>
 
+<h1 dir="rtl">Projects / پروژه</h1>
+
+<p>
+  The possibility of defining different projects and assigning a coding system to them. This will help the application to manage the generated codes in a project and prevent duplicate code generation and notify the user before applying the code to the design file.
+</p>
+
+<p dir = rtl>
+  امکان تعریف پروژه های مختلف و تخصیص سیستم کدگذاری به آنها. این کار به برنامه کمک خواهد کرد که کدهای تولید شده در یک پروژه را مدیریت کرده و از تولید کدهای تکراری جلوگیری شود و قبل از اعمال کد به فایل طراحی به کاربر اطلاع رسانی کند.
+</p>
+
+<div align="center">
+  <img atl="Projects" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/d62ea3ce-3cd4-4eb5-84d2-0e5d57188244" />
+    <p>Projects</p>
+</div>
+
 <h1 dir="rtl">Code Generator / تولید کننده کد</h1>
 
 <div align="center">
