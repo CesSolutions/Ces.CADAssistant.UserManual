@@ -461,3 +461,16 @@
   <img alt="Minimal Mode" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/13a4baa0-d219-464d-b582-b17bf211678b">
   <p>Minimal Mode</p>
 </div>
+
+<h1 dir="rtl">Manage Generated Codes / مدیریت کدهای تولید شده</h1>
+<p>
+    At the time of code generation, the program will check whether the current code has already been used in the selected project or not and will notify the user of this issue as shown in the image below. Also, at the time of assigning the code to the design file, the program will also store the physical address of the file and in order to ensure that the file is saved in the computer, if the file has not been saved before, it will open the save dialog box and the code will be applied when the file is saved otherwise the code will not be applied. In fact, it is mandatory to save the file before applying the code. In such a situation, the file will be saved with the name of the code you applied, and its meaning is that all the design files will be coded and meaningful from the beginning.
+</p>
+<p>
+    در زمان تولید کد، برنامه بررسی خواهد کرد که آیا کد جاری قبلا در پروژه انتخاب شده استفاده شده است یا خیر و این موضوع را به کاربر مطابق تصویر زیر اعلام خواهد کرد. همچنین برنامه در زمان تخصیص کد به فایل طراحی، آدرس فیزیکی فایل را نیز نگهداری خواهد کرد و به منظور اطمینان از ذخیره فایل در کامپیوتر، چنانچه فایل قبلا ذخیره نشده باشد کادر ذخیره را باز خواهد کرد و کد زمانی اعمال خواهد شد که فایل ذخیره شده باشد در غیر اینصورت کد اعمال نخواهد شد. در واقع ذخیره فایل قبل از اعمال کد اجباری می باشد. در چنین شرایطی فایل با نام کدی که اعمال کردید ذخیره خواهد شد و مفهوم آن آنست که تمامی فایل های طراحی از ابتدا کدگذاری شده و معنادار خواهند بود.
+</p>
+
+<div align="center">
+  <img alt="Check Duplicate Generated Code" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/6ee0b37f-eddf-4768-82eb-646b37218ad0">
+  <p>Check Duplicate Generated Code</p>
+</div>
