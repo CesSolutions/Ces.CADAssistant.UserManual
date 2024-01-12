@@ -45,7 +45,7 @@
 <h1 dir="rtl">Tools Menu / منوی Tools</h1>
 
 <div align="center">
-  <img alt="Tools Menu" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/d9f43723-fe69-4df6-a309-7c8366785a8b" />
+  <img alt="Tools Menu" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/ef6a226b-9a06-4041-8457-5a393069932f" />
   <p>Tools Menu</p>
 </div>
 
@@ -97,13 +97,20 @@
   </li>
 </ul>
 
+<h1 dir="rtl">Help Menu / منوی Help</h1>
+
+<div align="center">
+  <img alt="Help Menu" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/1bccc1b6-254c-450c-b32f-15adf2ccc66c" />
+  <p>Help Menu</p>
+</div>
+
 <h1 dir="rtl">First Execution / اولین اجرای برنامه</h1>
 <p>
   پس از اولین اجرای برنامه چنانچه بانک اطلاعاتی پیدا نشود برنامه پنجره Settings را باز خواهد کرد و شما باید تعیین کنید که برنامه یک بانک اطلاعاتی جدید ایجاد کند و یا اینکه از بانک اطلاعاتی قبلی استفاده کند.
 </p>
 
 <div align="center">
-  <img alt="Settings" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/25150af8-f60d-4c11-9da4-f0760b74fbf1"/>
+  <img alt="Settings" src="https://github.com/CesSolutions/Ces.CADAssistant.UserManual/assets/74654532/d6a90473-29b1-47ed-8d14-298292d558a1" />
   <p>Settings</p>
 </div>
 
