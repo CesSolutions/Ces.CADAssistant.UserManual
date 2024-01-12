@@ -126,6 +126,13 @@
   <p>Registration</p>
 </div>
 
+<p>
+    To activate your application just send "Request Code" to hadi.mazareei@gmail.com.
+</p>
+<p dir="rtl">
+    جهت فعالسازی برنامه کافیست Request Code را به آدرس hadi.mazareei@gmail.com ایمیل کنید.
+</p>
+
 <h1 dir="rtl">First Execution / اولین اجرای برنامه</h1>
 <p>
   پس از اولین اجرای برنامه چنانچه بانک اطلاعاتی پیدا نشود برنامه پنجره Settings را باز خواهد کرد و شما باید تعیین کنید که برنامه یک بانک اطلاعاتی جدید ایجاد کند و یا اینکه از بانک اطلاعاتی قبلی استفاده کند.
